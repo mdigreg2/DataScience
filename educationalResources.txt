@@ -38,94 +38,172 @@ https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_tok
 https://betterexplained.com/articles/...
 https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fbetterexplained.com%2Farticles%2Flinear-algebra-guide%2F
 
+
 Introduction to Methods of Applied Mathematics http://physics.bgu.ac.il/~gedalin/Tea...
 https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=http%3A%2F%2Fphysics.bgu.ac.il%2F%7Egedalin%2FTeaching%2FMater%2Fam.pdf
 
+
+
 Mathematical Tools for Physics http://www.physics.miami.edu/~nearing...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=http%3A%2F%2Fwww.physics.miami.edu%2F%7Enearing%2Fmathmethods%2Fmathematical_methods-one.pdf
+
+
 https://www.math.ubc.ca/~carrell/NB.pdf (Linear Algebra Reference)
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fwww.math.ubc.ca%2F%7Ecarrell%2FNB.pdf
+
+
 https://math.byu.edu/~klkuttle/Essent... (Reference)
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fmath.byu.edu%2F%7Eklkuttle%2FEssentialLinearAlgebra.pdf
+
+
 
 CALCULUS
 
 Essence of Calculus https://www.youtube.com/watch?v=WUvTy...
+https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+
 https://www.khanacademy.org/math/calc...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fwww.khanacademy.org%2Fmath%2Fcalculus-1
+
 https://www.khanacademy.org/math/calc...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fwww.khanacademy.org%2Fmath%2Fcalculus-2
+
 https://www.khanacademy.org/math/mult...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fwww.khanacademy.org%2Fmath%2Fmultivariable-calculus
 
 PRACTICE PYTHON PROJECTS
 https://github.com/tuvtran/project-ba...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fgithub.com%2Ftuvtran%2Fproject-based-learning%23python
+
 https://projecteuler.net/
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fprojecteuler.net%2F
 
 MORE PYTHON
 
 Work through as many of the examples as you fancy in Chapters 6 and 7 here https://scipython.com/book/
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fscipython.com%2Fbook%2F
+
 
 DATA EXPLORATION
 
 https://github.com/StephenElston/Expl...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fgithub.com%2FStephenElston%2FExploringDataWithPython%2Fblob%2Fmaster%2FLearningDataVisualization.ipynb
+
 
 https://www.kaggle.com/c/titanic#desc...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fwww.kaggle.com%2Fc%2Ftitanic%23description
+
+
 
 PROBABILITY AND STATISTICS
 
 https://www.khanacademy.org/math/stat...
-http://greenteapress.com/thinkstats/t...
-https://bookboon.com/en/applied-stati...
-http://www.wzchen.com/probability-che...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fwww.khanacademy.org%2Fmath%2Fstatistics-probability
 
+http://greenteapress.com/thinkstats/t...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=http%3A%2F%2Fgreenteapress.com%2Fthinkstats%2Fthinkstats.pdf
+
+https://bookboon.com/en/applied-stati...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fbookboon.com%2Fen%2Fapplied-statistics-ebook
+
+http://www.wzchen.com/probability-che...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=http%3A%2F%2Fwww.wzchen.com%2Fprobability-cheatsheet%2F
 
 STATISTICAL LEARNING 
 
 An Introduction to Statistical Learning https://www-bcf.usc.edu/~gareth/ISL/i... (Essential)
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fwww-bcf.usc.edu%2F%7Egareth%2FISL%2Findex.html
+
 https://work.caltech.edu/telecourse.html
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fwork.caltech.edu%2Ftelecourse.html
+
 Elements of Statistical Learning (Extremely useful)
 https://web.stanford.edu/~hastie/Elem...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fweb.stanford.edu%2F%7Ehastie%2FElemStatLearn%2F
+
 
 PYTHON AND DATA SCIENCE
 
 Chapter 5 Python Data Science Handbook https://github.com/jakevdp/PythonData...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fgithub.com%2Fjakevdp%2FPythonDataScienceHandbook%2Fblob%2F8a34a4f653bdbdc01415a94dc20d4e9b97438965%2Fnotebooks%2FIndex.ipynb
 
 https://scikit-learn.org/stable/tutor...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fscikit-learn.org%2Fstable%2Ftutorial%2Findex.html
+
+
+
 
 DATA STRUCTURES AND ALGORITHMS IN PYTHON
 https://eu.udacity.com/course/data-st...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Feu.udacity.com%2Fcourse%2Fdata-structures-and-algorithms-in-python--ud513
+
 http://interactivepython.org/runeston...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=http%3A%2F%2Finteractivepython.org%2Frunestone%2Fstatic%2Fpythonds%2Findex.html
+
 
 TENSORFLOW
 https://developers.google.com/machine...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fdevelopers.google.com%2Fmachine-learning%2Fcrash-course%2F
 
 SQL
 https://www.khanacademy.org/computing...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fwww.khanacademy.org%2Fcomputing%2Fcomputer-programming%2Fsql
+
 
 GIT AND VERSION CONTROL
 
 https://git-scm.com/book/en/v2 
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fgit-scm.com%2Fbook%2Fen%2Fv2
+
 
 TAKE THIS CLASS
 https://cs109.github.io/2015/index.html
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fcs109.github.io%2F2015%2Findex.html
+
 
 R
 
 https://www.r-bloggers.com/how-to-lea...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fwww.r-bloggers.com%2Fhow-to-learn-r-2%2F
+
 
 SUPPLEMENTARY MATERIAL
 
 https://docs.python.org/3/tutorial/in...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fdocs.python.org%2F3%2Ftutorial%2Findex.html
+
 
 https://www.reddit.com/r/Python/
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fwww.reddit.com%2Fr%2FPython%2F
+
 
 https://www.reddit.com/r/datascience/
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdatascience%2F
+
 
 https://stackoverflow.com/questions/t...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fstackoverflow.com%2Fquestions%2Ftagged%2Fpython
+
 
 https://datascience.stackexchange.com/
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fdatascience.stackexchange.com%2F
+
 
 https://jupyter.org/
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fjupyter.org%2F
+
 
 How to think like a computer scientist http://www.openbookproject.net/thinkc...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=http%3A%2F%2Fwww.openbookproject.net%2Fthinkcs%2Fpython%2Fenglish3e%2F
+
 
 WRITE A BLOG - https://onextrapixel.com/start-jekyll...
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fonextrapixel.com%2Fstart-jekyll-blog-github-pages-free%2F
+
 SLACK GROUPS: https://kagglenoobs.herokuapp.com/ https://datadiscourse.herokuapp.com/
+https://www.youtube.com/redirect?event=video_description&v=eTxyviU0Ddo&redir_token=OuJrERM23euY_wc0UlWecwEuqqN8MTU1Nzg0MjY2MEAxNTU3NzU2MjYw&q=https%3A%2F%2Fdatadiscourse.herokuapp.com%2F
+
+
 
 =========================================================================
 "Hands-On Machine Learning with Scikit-Learn & TensorFlow"
@@ -137,5 +215,4 @@ Aurelien Geron
 
 
 
-Category
-Education
+
