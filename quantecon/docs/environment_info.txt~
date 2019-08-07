@@ -1,0 +1,6 @@
+Name: qeconenv
+Creation: virtualenv qeconenv
+Sourcing: source queconenv/bin/activate
+Packages and Install Methods:
+
+Jupyter			pip3 install jupyter
